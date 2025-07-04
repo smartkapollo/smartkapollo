@@ -1,9 +1,7 @@
 ## I warmly welcome you!
-   - I am a Senior Web & Mobile and Blockchain developer with 8+ years of experience, and have good experience in this field.
-   - I have completed a lot of Ecommerce websites and Company websites using MEAN and MERN stack, Python/Django, C#, ASP.NET Core, ASP.NET MVC and JS frameworks.
-   - I have extensive experiences and knowledge in developing AI Chatbot.
-   - I have specialized the ICO, IDO, DeFi, DEX, NFT minting and marketplace, NFT card and casino games on EVM compatible network like Ethereum, BSC, Polygon and Solana, Near.
-
+   - I am a Senior Web & AI expert with 8+ years of experience, and have good experience in this field.
+   - I have completed a lot of Ecommerce websites and Company websites using MEAN and MERN stack, Python/Flask/Django, C#, ASP.NET Core, ASP.NET MVC and JS frameworks.
+   - I have extensive experiences and knowledge in developing AI Chatbot, AI Agents, AI Automation
 
 ✅ Web
 -  MEAN and MERN stack, Restful API, GraphQL, 
@@ -14,13 +12,9 @@
 -  PHP, Laravel, CodeIgniter
 -  Python, Django, Selenium
 -  Html, CSS, Javascript, Tailwind CSS
--  OpenAI, Vapi, Twilio, Langchain, Pinecone, VectorDB, LLM, NLP, RAG
 
-✅ Mobile
--  Android & IOS, React Native, Flutter
-
-✅ Blockchain
--  Ethereum, Smart Contract, Solidiity, Web3.js, Truffle, Hardhat.
+✅ AI Chatbot, AI Agents, AI Automation
+-  OpenAI, LLM, LangChain, NLP, RAG, Prompt, n8n, make.com, VectorDB, Whisper
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=smartcodedeveloper&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
