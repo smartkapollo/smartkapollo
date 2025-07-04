@@ -24,17 +24,17 @@
     
 ### GitHub Contributions
     
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=smartcodedeveloper)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=smartkapollo)
 
 ### My Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=smartcodedeveloper&count_private=true&show_icons=true&theme=ayu-mirage)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=smartkapollo&count_private=true&show_icons=true&theme=ayu-mirage)
 <br/>
 ### Most Used Langauges    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartcodedeveloper&layout=compact&theme=ayu-mirage&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartkapollo&layout=compact&theme=ayu-mirage&langs_count=8)
 
 <div>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartcodedeveloper.smartcodedeveloper" />
-    <img align="right" src="https://img.shields.io/github/followers/smartcodedeveloper?label=Follow&style=social" />
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartkapollo.smartkapollo" />
+    <img align="right" src="https://img.shields.io/github/followers/smartkapollo?label=Follow&style=social" />
 </div>
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
