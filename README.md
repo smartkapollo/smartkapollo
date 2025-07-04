@@ -20,18 +20,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=smartkapollo&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
-<div align="center">
-    
-### GitHub Contributions
-    
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=smartkapollo)
-
-### My Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=smartkapollo&count_private=true&show_icons=true&theme=ayu-mirage)
-<br/>
-### Most Used Langauges    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartkapollo&layout=compact&theme=ayu-mirage&langs_count=8)
-
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartkapollo.smartkapollo" />
     <img align="right" src="https://img.shields.io/github/followers/smartkapollo?label=Follow&style=social" />
