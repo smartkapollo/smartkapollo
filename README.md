@@ -17,7 +17,7 @@
 -  OpenAI, LLM, LangChain, NLP, RAG, Prompt, n8n, make.com, VectorDB, Whisper
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=smartcodedeveloper&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=smartkapollo&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
 <div align="center">
